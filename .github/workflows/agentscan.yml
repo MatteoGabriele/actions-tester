@@ -9,6 +9,10 @@ on:
     types:
       - opened
 
+  issue_comment:
+    types:
+      - created
+
 jobs:
   agentscan:
     runs-on: ubuntu-latest
