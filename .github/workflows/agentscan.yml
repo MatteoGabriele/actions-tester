@@ -18,4 +18,4 @@ jobs:
       contents: read
     steps:
       - name: AgentScan
-        uses: MatteoGabriele/agentscan-action@1d2b5e5da5deb1d252ae20052f8105b990495ab2
+        uses: MatteoGabriele/agentscan-action@a59707f077c373b333816f113092dd27ea86f2da
